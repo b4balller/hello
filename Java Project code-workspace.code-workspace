@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "DO101-apps"
+		},
+		{
+			"path": "../JB083x-lab"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
